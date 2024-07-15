@@ -1723,6 +1723,6 @@ body.active { overflow: hidden; }
 @media screen and (max-width:720px) {
   .hero-title{
     font-size: 50px;
-    padding: 20px;
+    padding  : 20px;
   }
 }
